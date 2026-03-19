@@ -1,0 +1,16 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Download the session folder from web Dropbox folder that has been shared with you.
+
+00:00:05.000 --> 00:00:11.000
+Double-click the downloaded .zip file to expand the folder.
+
+00:00:12.000 --> 00:00:16.000
+Go into the expanded folder where you will see a sessionId folder. Don't change the name of this folder.
+
+00:00:17.000 --> 00:00:35.000
+Move or copy the sessionId folder into 'Documents -> netballR -> data -> Local -> sessionData'
+
+00:00:36.000 --> 00:00:45.000
+Close and reopen the centrethird-scout app, or in the taskbar go to 'View' -> 'Reload'. The imported session data will now be available in the 'Database' tab.
